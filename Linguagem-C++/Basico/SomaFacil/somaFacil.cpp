@@ -1,10 +1,10 @@
-#include <bits/stdc++.h>
+#include <iostream>
 
 using namespace std;
 /*
     Para valores double e imprimir com 2 casas de precisão
     cout.precision(2);
-    cout.stf(ios::fixed);
+    cout.setf(ios::fixed);
 */
 int main() {
     int num1, num2, resultado;

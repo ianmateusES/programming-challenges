@@ -16,7 +16,7 @@
     "Bino". Caso Cino vença o jogo, imprima "Cino".
 */
 
-#include <bits/stdc++.h>
+#include <iostream>
 
 using namespace std;
 

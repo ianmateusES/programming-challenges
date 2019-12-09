@@ -29,7 +29,7 @@
     imprima '-1', senão, imprima '1'.
 */
 
-#include <bits/stdc++.h>
+#include <iostream>
 
 using namespace std;
 

@@ -1,4 +1,3 @@
-#include <bits/stdc++.h>
 /*
     A turma do colégio vai fazer uma excursão na serra e todos os
     alunos e monitores vão tomar um bondinho para subir até o pico
@@ -18,6 +17,8 @@
     é possível levar todos os alunos e monitores em apenas uma viagem, 
     ou o caractere N caso não seja possível.
 */
+
+#include <iostream>
 
 using namespace std;
 
